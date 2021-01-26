@@ -2,7 +2,7 @@
 MyCampAdvisor, a full stack web app built using NodeJs, Express & MongoDB which is a clone to the Colt Steele's famous web developement course project- YelpCamp.
 
 <p align="center">
-<img src="https://github.com/Ankitabit3496/MyCampAdvisor/blob/main/Images/Image_1.png" height="300" width="500">
+<img src="https://github.com/Ankitabit3496/MyCampAdvisor/blob/main/Images/Image_1.png" height="400" width="500">
 </p>
 
 ## Features
@@ -11,5 +11,5 @@ MyCampAdvisor, a full stack web app built using NodeJs, Express & MongoDB which 
 - User can review and rate campgrounds, and edit or remove their review.
 
 <p align="center">
-<img src=https://github.com/Ankitabit3496/MyCampAdvisor/blob/main/Images/Image_2.png height="300" width="500">
+<img src=https://github.com/Ankitabit3496/MyCampAdvisor/blob/main/Images/Image_2.png height="400" width="500">
 </p>
