@@ -8,7 +8,7 @@ MyCampAdvisor, a full stack web app built using NodeJs, Express & MongoDB which 
 ## Features
 - User should first register and can login through the registered credentials for multiple visits in future.
 - User can view, create, edit, and remove campgrounds.
-- User can review and rate campgrounds
+- User can review and rate campgrounds.
 - Reviews can be edited or removed later on.
 
 <p align="center">
