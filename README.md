@@ -3,7 +3,7 @@ MyCampAdvisor, a full stack web app built using NodeJs, Express & MongoDB which 
 
 <p align="center">
 <pkd>
-<img src="https://github.com/Ankitabit3496/MyCampAdvisor/blob/main/Images/Image_1.png" height="200" width="300">
+<img src="https://github.com/Ankitabit3496/MyCampAdvisor/blob/main/Images/Image_1.png" height="275" width="375">
 </pkd>
 </p>
 
@@ -15,6 +15,6 @@ MyCampAdvisor, a full stack web app built using NodeJs, Express & MongoDB which 
 
 <p align="center">
 <pkd>
-<img src=https://github.com/Ankitabit3496/MyCampAdvisor/blob/main/Images/Image_2.png height="200" width="300">
+<img src=https://github.com/Ankitabit3496/MyCampAdvisor/blob/main/Images/Image_2.png height="275" width="375">
 </pkd>
 </p>
