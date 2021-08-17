@@ -15,3 +15,6 @@ MyCampAdvisor, a full stack web app built using NodeJs, Express & MongoDB which 
 <img src=https://github.com/Ankitabit3496/MyCampAdvisor/blob/main/Images/Image_2.png height="255" width="375">
 </kbd>
 </p>
+
+## Author
+[ANKITA]
